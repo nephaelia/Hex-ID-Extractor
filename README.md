@@ -1,2 +1,5 @@
 # Hex-ID-Extractor
 I wrote this really small and very specific bit of javascript several months ago to do one VERY specific thing to a very specific type of file. And it does that very well.
+All you need to use it yourself is 1. to download the files (obviously) and 2. the ability to use nodejs on your computer. Then you just open your terminal, cd into the folder you downloaded my files into, and run "node HexIDExtractor.js". There are already a bunch of hex IDs in the test file, so you can delete them if you want, if not it'll just append them again at the end every time you run the command. 
+This is NOT a useful program!!! It is just the first one I wrote by myself (as a self-taught coder) so I am proud of it, okay? It does the thing I wanted, which was to specifically get ONLY the hexidecimal IDs from the MC Dresser config file in my Sims 4 Mods folder in a list format in a text file. And I achieved that goal. Hooray for me! And if for some bizarre reason you also want to do that, now you can too! 
+You're welcome.
